@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning paython
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me trambadiyamihir635@gmail.com
-- 😄 Pronouns: mihir
 - ⚡ Fun fact: ...
 
 <!---
