@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MIHIR-21
-- 🌱 I’m currently learning paython
+- 🌱 I’m currently learning ASP.NET MVC Core
 - 📫 How to reach me trambadiyamihir635@gmail.com
 
 
